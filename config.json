@@ -5,8 +5,8 @@
     "textColor": "#ffffff",
     "fontSize": "20px",
     "fontWeight": "bold",
-    "borderSize": "2px",
-    "borderColor": "#000",
+    "borderSize": "5px",
+    "borderColor": "#00ff44",
     "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png"
   }
 }
