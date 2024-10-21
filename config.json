@@ -1,14 +1,14 @@
 {
   "banner": {
     "active": true,
-    "text": "the ghosts are here! Discount code 'spooky20' for 20% discount",
-    "textColor": "#ffffff",          // Barva textu
-    "fontSize": "20px",              // Velikost textu
-    "fontWeight": "bold",            // Tloušťka písma
-    "borderColor": "#fff",           // Barva ohraničení textu
-    "borderWidth": "2px",            // Šířka ohraničení textu
-    "borderStyle": "solid",          // Styl ohraničení textu
-    "borderRadius": "5px",           // Zaoblení rohů ohraničení textu
+    "text": "Welcome to Our Event!",
+    "textColor": "#ffffff",
+    "fontSize": "20px",
+    "fontWeight": "bold",
+    "borderColor": "#ff0000",
+    "borderWidth": "2px",
+    "borderStyle": "solid",
+    "borderRadius": "5px",
     "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png"
   }
 }
