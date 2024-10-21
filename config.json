@@ -1,0 +1,7 @@
+{
+    "banner": {
+        "active": true,
+        "text": "Welcome to our event!",
+        "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png"
+    }
+}
