@@ -1,11 +1,11 @@
 {
   "banner": {
-    "active": true,
+    "active": false,
     "text": "Ghosts are here! Discount code |spooky20| for 20% discount",
     "textColor": "#FFF",
     "width": "600px",
     "height": "100px", 
     "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png",
-    "speed": 4
+    "speed": 3
   }
 }
