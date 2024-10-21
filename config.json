@@ -3,6 +3,7 @@
     "active": true,
     "width": "600px",
     "heighte": "100px",
-    "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png"
+    "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png",
+    "speed": 1,
   }
 }
