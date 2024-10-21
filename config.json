@@ -1,8 +1,8 @@
 {
     "banner": {
         "active": true,
-        "text": "Welcome to our event!",
-        "textColor": "#FF0000",
+        "text": "Welcome to our",
+        "textColor": "#FFF",
         "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png"
     }
 }
