@@ -1,6 +1,6 @@
 {
   "banner": {
-    "active": false,
+    "active": true,
     "text": "Ghosts are here! Discount code |spooky20| for 20% discount",
     "textColor": "#FFF",
     "width": "600px",
