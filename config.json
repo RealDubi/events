@@ -5,7 +5,7 @@
     "textColor": "#ffffff",
     "fontSize": "20px",
     "fontWeight": "bold",
-    "borderColor": "#fff",  // Barva ohraničení textu
+    "borderColor": "#000000",  // Barva ohraničení textu
     "borderWidth": "2px",   // Šířka ohraničení textu
     "borderStyle": "solid",  // Styl ohraničení textu
     "borderRadius": "5px",   // Zaoblení rohů ohraničení textu
