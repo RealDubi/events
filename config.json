@@ -2,8 +2,8 @@
   "banner": {
     "active": true,
     "width": "600px",
-    "heighte": "100px",
+    "height": "100px", 
     "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png",
-    "speed": 1,
+    "speed": 1
   }
 }
