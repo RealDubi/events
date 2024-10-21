@@ -1,12 +1,12 @@
 {
   "banner": {
     "active": true,
-    "text": "Welcome to Our Event!",
+    "text": "the ghosts are here! Discount code 'spooky20' for 20% discount",
     "textColor": "#ffffff",
-    "fontSize": "20px",
+    "fontSize": "30px",
     "fontWeight": "bold",
-    "borderColor": "#ff0000",
-    "borderWidth": "2px",
+    "borderColor": "#fff",
+    "borderWidth": "4px",
     "borderStyle": "solid",
     "borderRadius": "5px",
     "image": "https://raw.githubusercontent.com/RealDubi/events/main/banner.png"
